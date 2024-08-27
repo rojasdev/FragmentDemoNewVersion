@@ -3,4 +3,9 @@
     <string name="open">Open</string> <!-- Add this line -->
     <string name="close">Close</string> <!-- Add this line -->
     <string name="fragment_one">Fragment One</string>
+    <string name="menu_one">Activity 1</string>
+    <string name="menu_two">Activity 2</string>
+    <string name="menu_three">Activity 3</string>
+    <string name="menu_four">Profile</string>
+    <string name="menu_five">Activity 5</string>
 </resources>

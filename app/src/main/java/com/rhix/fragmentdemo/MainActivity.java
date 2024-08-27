@@ -72,6 +72,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new FragmentOne();
         } else if (id == R.id.nav_fragment_two) {
             fragment = new FragmentTwo();  // Add more fragments as needed
+        } else if(id == R.id.nav_fragment_three){
+            fragment = new FragmentThree();
+        } else if(id == R.id.nav_fragment_four){
+            fragment = new FragmentFour();
+        } else if (id == R.id.nav_fragment_five){
+            fragment = new FragmentFive();
         }
 
         // Replace the fragment if it exists
